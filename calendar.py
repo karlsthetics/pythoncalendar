@@ -60,8 +60,8 @@ for r, week in enumerate(month_days):
         tk.Label(
             dates_frame,
             text=text,
-            width=5,
-            height=2,
+            width=50,
+            height=200,
             font=("Helvetica", 10),
             bg=bg,
             fg="#7a2c4f",
